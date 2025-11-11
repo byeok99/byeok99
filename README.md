@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td align="center">School</td>
-    <td align="center" colspan="2">KOREATECH, Computer Science and Engineering</td>
+    <td align="center" colspan="2">한국기술교육대학교 - 컴퓨터공학부</td>
   </tr>
   <tr>
     <td align="center">GPA</td>
@@ -65,7 +65,7 @@
     <td align="center">Overall 3.95 / 4.5</td>
   </tr>
   <tr>
-    <td align="center" rowspan="6">Certificate</td>
+    <td align="center" rowspan="2">Certificate</td>
     <td align="center">Adsp</td>
     <td align="center">2024.09</td>
   </tr>
