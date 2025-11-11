@@ -48,7 +48,7 @@
   <tr>
     <td align="center">2024 한국지식경영학회 추계학술대회 대학(원)생 아이디어 공모전</td>
     <td align="center">우수상</td>
-    <td align="center">2024</td>
+    <td align="center">한국지식경영협의회</td>
     <td align="center">2024.11</td>
   </tr>
 </table>
